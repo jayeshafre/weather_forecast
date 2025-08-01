@@ -197,7 +197,7 @@ See the [LICENSE](LICENSE) file for full terms.
 📫 Connect with me:
 
 * GitHub: [@jayeshafre](https://github.com/jayeshafre)
-* Email: [jayeshafre@gmail.com](mailto:thedeveloper003@gmail.com) 
+
 
 ---
 
