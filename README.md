@@ -1,39 +1,3 @@
-Here’s your **enhanced and production-ready `README.md`** with:
-
-* ✅ Clear structure
-* 🔐 Updated API key handling instructions
-* 📷 Screenshot support placeholder
-* 🧠 Slight grammar and flow improvements
-* 🔗 Better link presentation
-* ✅ Matches your `.gitignore` and config.js setup
-
----
-
-````markdown
-<details open>
-  <summary>📑 Table of Contents</summary>
-
-1. [About the Project](#weather-dashboard)
-   - [Features](#-features)
-   - [Project Access](#-project-overview)
-   - [Installation](#-installation)
-
-2. [Technical Details](#-technical-specifications)
-   - [Technologies Used](#-frontend-technologies)
-   - [API Configuration](#-api-configuration)
-
-3. [UI/UX & Weather Data](#-uiux-specifications)
-
-4. [Security & Optimization](#-security-considerations)
-
-5. [Future Improvements](#-future-enhancements)
-
-6. [Author & License](#-author)
-
-</details>
-
----
-
 # ⛅️ Weather Dashboard
 
 ## 📅 Project Overview
